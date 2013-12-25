@@ -1,7 +1,8 @@
 Source: rtmpdump
 Priority: extra
-Maintainer: Debian Multimedia Maintainers <pkg-multimedia-maintainers@lists.alioth.debian.org>
-Uploaders:
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Debian Multimedia Maintainers <pkg-multimedia-maintainers@lists.alioth.debian.org>
+XSBC-Pexip-Original-Uploaders:
  Reinhard Tartler <siretart@tauware.de>,
  Sebastian Dröge <slomo@debian.org>
 Build-Depends:
@@ -12,6 +13,7 @@ Section: web
 Vcs-Git: git://git.debian.org/git/pkg-multimedia/rtmpdump.git
 Vcs-Browser: http://git.debian.org/?p=pkg-multimedia/rtmpdump.git;a=summary
 Homepage: http://rtmpdump.mplayerhq.hu/
+XS-Pexip-Upstream: http://archive.ubuntu.com/ubuntu/ precise
 
 Package: rtmpdump
 Architecture: any

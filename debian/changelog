@@ -1,3 +1,9 @@
+rtmpdump (2.4~20110711.gitc28f1bab-1pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Wed, 25 Dec 2013 04:28:43 +0000
+
 rtmpdump (2.4~20110711.gitc28f1bab-1) unstable; urgency=low
 
   * Team upload.
