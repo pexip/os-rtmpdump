@@ -1,4 +1,4 @@
-librtmp.so.0 librtmp0 #MINVER#
+librtmp.so.1 librtmp1 #MINVER#
 * Build-Depends-Package: librtmp-dev
  AMF3CD_AddProp@Base 2.3
  AMF3CD_GetProp@Base 2.3
@@ -111,3 +111,8 @@ librtmp.so.0 librtmp0 #MINVER#
  RTMP_Write@Base 2.3
  RTMP_ctrlC@Base 2.3
  RTMP_debuglevel@Base 2.3
+ AMF_EncodeArray@Base 2.4+20131018.git79459a2
+ AMF_EncodeEcmaArray@Base 2.4+20131018.git79459a2
+ RTMP_TLS_Accept@Base 2.4+20131018.git79459a2
+ RTMP_TLS_AllocServerContext@Base 2.4+20131018.git79459a2
+ RTMP_TLS_FreeServerContext@Base 2.4+20131018.git79459a2
